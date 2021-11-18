@@ -9,7 +9,7 @@ Utilize o comando `ng serve --o --watch` para subir um servidor de desenvolvimen
 <h2>Descrição</h2>
 
 O D'cria é um projeto criado para expor a cultura urbana do Brasil, como grafite, skate e diversas outras coisas da cultura de rua.
-O nosso site foi feito utilizando [Angular](https://github.com/angular/angular-cli), [Boostrap](https://getbootstrap.com/) e foi totalmente pensado para se comportar de forma responsiva, se comportando muito bem em diversos dispositivos móveis. Abaixo segue algumas imagens do site:
+O nosso site foi feito utilizando [Angular](https://github.com/angular/angular-cli), [Boostrap](https://getbootstrap.com/) e foi totalmente pensado para ser responsivo, se comportando muito bem em diversos dispositivos móveis. Abaixo segue algumas imagens do site:
 
 <h2>Home</h2>
 <img src="https://i.ibb.co/3zCs1NX/Dcria-Home.png" alt="Dcria Home" border="0">
