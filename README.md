@@ -1,27 +1,18 @@
-# DCria
+<h1>D'Cria</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+Este projeto foi feito utilizando [Angular CLI](https://github.com/angular/angular-cli) 12.2.7.
 
-## Development server
+<h2>Servidor de desenvolvimento</h2>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Utilize o comando `ng serve --o --watch` para subir um servidor de desenvolvimento que escuta por alterações automáticamente.
 
-## Code scaffolding
+<h2>Descrição</h2>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O D'cria é um projeto criado para expor a cultura urbana do Brasil, como grafite, skate e diversas outras coisas da cultura de rua.
+O nosso site foi feito utilizando [Angular](https://github.com/angular/angular-cli), [Boostrap](https://getbootstrap.com/) e foi totalmente pensado para se comportar de forma responsiva, se comportando muito bem em diversos dispositivos móveis. Abaixo segue algumas imagens do site:
 
-## Build
+<h2>Home</h2>
+<img src="https://i.ibb.co/3zCs1NX/Dcria-Home.png" alt="Dcria Home" border="0">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h2>Home - Mobile</h2>
+<img src="https://i.ibb.co/R4rZS3V/Dcria-Home-mobile.png" alt="Dcria Home mobile" border="0">
