@@ -1,0 +1,23 @@
+.navbar-preto {
+    background-color: #111111 !important;
+    justify-content: unset !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../../../assets/navBackground.png");
+    height: 100px;
+}
+
+.nav-link {
+    color: white !important;
+    text-transform: uppercase;
+    letter-spacing: .08rem;
+}
+
+.nav-link:hover {
+    transition: 0.5s;
+    color: #939393 !important;
+}
+
+body {
+    background: #F5F5F5;
+}
